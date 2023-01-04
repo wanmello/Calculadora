@@ -1,0 +1,31 @@
+body{
+    background-color: black;
+}
+
+input { 
+    text-align: right; 
+}
+
+.box{
+    margin: auto;
+    margin-top: 20px;
+    background-color: rgb(71, 47, 5);
+    border: 2px solid black;
+    width: 220px;
+    height: 310px;
+    border-radius: 15px;
+}
+
+.btn{
+    width: 100%;
+    height: 40px;
+}
+
+#fresult{
+    width: 100%;
+    border-radius: 15px;
+}
+
+.row{
+    padding: 6px;
+}
